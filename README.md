@@ -6,7 +6,7 @@ Ek olarak dapper ile de performans testi yapıldı.
 Dapper : 2.1.28
 Microsoft.EntityFrameworkCore.SqlServer : 6.0.26
 Microsoft.EntityFrameworkCore.Tools : 6.0.26
-
+<br/>
 veritabanı işlemleri
 Connection String : "Data Source=(localdb)\\mssqllocaldb; Database=DbEfCorePerformance; Trusted_Connection=true;"
 PM > Add-Migration Add_Company_And_Employee
